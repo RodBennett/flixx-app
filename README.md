@@ -13,6 +13,8 @@ Built as a project with [Traversy Media's](https://www.traversymedia.com/) Moder
 - Swiper API for gallery view
 - The Movie DB 3rd-Party API
 
+Deployed with Netlify at: https://spontaneous-alfajores-3dc2cb.netlify.app/shows.html
+
 ## Contributing
 Rod Bennett: rod.bennett75@gmail.com
 
